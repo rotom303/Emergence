@@ -1,0 +1,1 @@
+This folder should contain 3D models (e.g. Solidworks). Please remember Solidworks are binary files and git cannot display usuable diff information. It is important to commit early and often with good log messages to keep track of the changes.

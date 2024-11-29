@@ -1,0 +1,10 @@
+# Inform Git that these files should be treated as binary
+# files, not text files to prevent corruption
+
+# Labview
+*.lvbitx binary
+*.vi binary
+
+# Solidworks
+*.sldprt binary
+*.sldasm binary
